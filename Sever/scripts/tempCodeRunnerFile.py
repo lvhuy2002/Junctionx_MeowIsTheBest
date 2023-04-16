@@ -1,0 +1,1 @@
+open(r"scripts/model.pkl","rb")
